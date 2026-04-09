@@ -1,4 +1,4 @@
-# Sistema de Gestión de Inventario - UNEFA
+# Sistema de Gestión de Inventario
 
 ## Descripción del Proyecto
 Este sistema es una aplicación de consola desarrollada en Python para la gestión eficiente de inventarios de una tienda. Permite realizar el ciclo completo de gestión de datos (registro, consulta, edición y eliminación) de productos, garantizando que la información se mantenga guardada incluso después de cerrar el programa mediante el uso de archivos JSON.
